@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MinimalPackage",
-            url: "https://github.com/theHonzic/test-public/releases/download/v2.3.13/MinimalPackage.xcframework.zip",
-            checksum: "1414eb629f6213ea157adfc3e4c7fbd0281b7d223fdf30d539afa267bff7dad5"
+            url: "https://github.com/theHonzic/test-public/releases/download/v2.3.14/MinimalPackage.xcframework.zip",
+            checksum: "37b5e86ec4ccc7157409a65d7a27974acae8a65f8f2dc8c7ab06bda406ea1769"
         )
     ]
 )
